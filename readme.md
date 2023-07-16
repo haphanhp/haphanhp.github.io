@@ -1,7 +1,1 @@
-echo "# haphanhp.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/haphanhp/haphanhp.github.io.git
-git push -u origin main
+[![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange)](https://www.buymeacoffee.com/baohavnasia)
